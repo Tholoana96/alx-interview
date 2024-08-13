@@ -47,4 +47,3 @@ try:
 except KeyboardInterrupt:
     print_msg(dict_sc, total_file_size)
     raise
-
