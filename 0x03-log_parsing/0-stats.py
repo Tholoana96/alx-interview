@@ -52,3 +52,4 @@ try:
 
 finally:
     print_msg(dict_sc, total_file_size)
+
